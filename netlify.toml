@@ -1,5 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "/.netlify/functions/:splat"
-status = 410
-force = true
