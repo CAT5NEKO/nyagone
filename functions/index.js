@@ -30,7 +30,8 @@ exports.handler = async function (event, context) {
                 </style>
             </head>
             <body>
-                <h1>This resource is gone (410)</h1>
+                <h1>410</h1>
+                <h2>THIS PAGE IS GONE</h2>
             </body>
             </html>
         `,
