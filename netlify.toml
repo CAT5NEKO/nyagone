@@ -1,2 +1,5 @@
-[build]
-functions = "nyagone/functions"
+[[redirects]]
+from = "/*"
+to = "/nyagone/pages/index.js"
+status = 410
+force = true
