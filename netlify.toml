@@ -1,2 +1,2 @@
-[dev]
-functions = "netlify/nyagone/nyagone.js"
+[build]
+functions = "functions"
