@@ -3,3 +3,7 @@ from = "/*"
 to = "/nyagone/pages/index.js"
 status = 410
 force = true
+
+[build]
+command = "npm run build"
+publish = ".next"
