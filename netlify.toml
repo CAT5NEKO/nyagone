@@ -1,9 +1,5 @@
 [[redirects]]
 from = "/*"
-to = "/nyagone/pages/index.js"
+to = "/index.html"
 status = 410
 force = true
-
-[build]
-command = "next build"
-publish = ".next"

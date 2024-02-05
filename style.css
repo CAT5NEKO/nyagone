@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+.gone-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    font-family: 'Arial';
+    background-color: #1a237e;
+}
+
+.gone-text h1 {
+    font-size: 15em;
+    margin: 0;
+}
+
+.gone-text p {
+    font-size: 2em;
+    margin: 0;
+}
+
+.powered-by {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 1em;
+    opacity: 0.7;
+}
